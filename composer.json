@@ -36,15 +36,6 @@
 			"pnpm run watch"
 		]
 	},
-	"repositories": [
-		{
-			"type": "path",
-			"url": "../../packages/*",
-			"options": {
-				"monorepo": true
-			}
-		}
-	],
 	"minimum-stability": "dev",
 	"prefer-stable": true,
 	"extra": {
